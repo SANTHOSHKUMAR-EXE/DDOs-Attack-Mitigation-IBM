@@ -17,7 +17,8 @@ Replace <PORT> with the port number used by your server. This command forwards p
 
 Using the DDoS Tool
 You can use a powerful Layer 7 DDoS tool for testing. The tool can be found here: ZxCDDoS. Follow the instructions in the repository to set it up and run it against a URL you want to test.
-( https://github.com/hoaan1995/ZxCDDoS ) 
+( https://github.com/hoaan1995/ZxCDDoS ) then python3 c2.py 
+username : admin pass : admin
 
 crash URL GET
 To test the DDoS mitigation, you can use a GET request to crash a URL:
